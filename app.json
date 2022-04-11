@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "frowning-crackers",
-    "slug": "snack-24695701-6606-4fa8-a1ad-2df12163b68e",
+    "name": "Kite",
+    "slug": "snack-595dbc94-d469-46ce-8f66-5306ad021413",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "io.github.gaurav712.zerodhaui"
+      "package": "com.zerodha.kite"
     },
     "web": {
       "favicon": "./assets/favicon.png"
